@@ -2,6 +2,12 @@
 
 Diseño de cuatro pantallas de la aplicación de IOS de Wallapop para el móduo de Diseño para Desarrolladores del KeepCoding Bootcamp III.
 
+![](https://github.com/aki-KeepCoding/practica_design4dev/blob/master/enunciado/pantallas/01_feed.png)
+![](https://github.com/aki-KeepCoding/practica_design4dev/blob/master/enunciado/pantallas/02_menu.png)
+![](https://github.com/aki-KeepCoding/practica_design4dev/blob/master/enunciado/pantallas/03_detalle.png)
+![](https://github.com/aki-KeepCoding/practica_design4dev/blob/master/enunciado/pantallas/04_subir.png)
+
+
 En el repo se incluyen los assets necesarios para iOS en 1x 2x 3x. 
 
 - Buttons: Las imágenes de tipo botón para la aplicación
